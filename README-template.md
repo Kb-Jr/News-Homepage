@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [](https://github.com/Kb-Jr/News-Homepage.git)
-- Live Site URL: [](https://kb-jr.github.io/News-Homepage/)
+- Solution URL: [Solution URL](https://github.com/Kb-Jr/News-Homepage.git)
+- Live Site URL: [Click here](https://kb-jr.github.io/News-Homepage/)
 
 ## My process
 
