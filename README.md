@@ -75,5 +75,5 @@ In this project i was able to practice using some semantic HTML5 tags, some css 
 
 
 ## Acknowledgments
-Appreciation goes to [Brad Traversy](https://github.com/bradtraversy),[Simo Edwin](https://github.com/developedbyed) and [w3schools](https://www.w3schools.com/).
+Appreciation goes to [Brad Traversy](https://github.com/bradtraversy), [Simo Edwin](https://github.com/developedbyed) and [w3schools](https://www.w3schools.com/).
 
