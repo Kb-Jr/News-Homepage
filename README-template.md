@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](.\design\desktop-design.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Kb-Jr/News-Homepage.git)
+- Solution URL: [Click here](https://github.com/Kb-Jr/News-Homepage.git)
 - Live Site URL: [Click here](https://kb-jr.github.io/News-Homepage/)
 
 ## My process
