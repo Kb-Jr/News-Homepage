@@ -25,7 +25,7 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 
-### Screenshot
+### Screenshots for dektop and mobile view
 
 ![Desktop screenshot](./design/desktop-design.png)
 ![Mobile screenshot](./design/mobile-design.png)
