@@ -71,7 +71,7 @@ In this project i was able to practice using some semantic HTML5 tags, some css 
 ## Author
 
 - Frontend Mentor - [@Kb-Jr](https://www.frontendmentor.io/profile/Kb-Jr)
-- Twitter - [@Joker__XL](https://www.twitter.com/yourusername)
+- Twitter - [@Joker__XL](https://www.twitter.com/Joker__XL)
 
 
 ## Acknowledgments
